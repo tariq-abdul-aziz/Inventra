@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.icons:hover{
+    @apply cursor-pointer;
+    color: #2672E9;
+}
+.placeholder{
+    @apply placeholder:opacity-70 placeholder:text-sm
+}
+
